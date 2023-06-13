@@ -9,11 +9,6 @@ Identified the Covid-19 restrictions and analyzed pandemic, including updates on
 SQL, Excel, Tableau
 
 
-# Covid19_Data_Exploration
-
-Identified the Covid-19 restrictions and analyzed pandemic, including updates on vaccinations. Gathered and investigated data from a trustworthy source. The data was organized and prepared using Excel, and then analyzed using Structured Query Language (SQL) to gain insights. Created an interactive Tableau dashboard that presents important details about the countries most impacted by the virus, the continents with the highest death rates, and the percentage of the global population vaccinated.
-
-
 ## Running Tests
 
 To run tests, run the following command
